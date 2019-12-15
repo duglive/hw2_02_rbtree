@@ -17,7 +17,7 @@
 #define RBTREE_RBTREE_H_
 
 // Uncomment this if you want to implement deletion.
-//#define RBTREE_WITH_DELETION
+#define RBTREE_WITH_DELETION
 
 
 namespace xi {
